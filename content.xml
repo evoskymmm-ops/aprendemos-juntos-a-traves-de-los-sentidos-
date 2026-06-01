@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260529182906ID61H0</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605291829064Q8KWO</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Aprendemos juntos a través de los sentidos </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Eva María Martínez Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje inclusiva para trabajar los sentidos, las emociones y la comunicación en 3º de Educación Primaria.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780071961908</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpr4vw2x-zv6ybj4nj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw2x-zv6ybj4nj</odePageId>
+      <odeBlockId>block-1780067727697-dkxf9evm1</odeBlockId>
+      <blockName>Inicio</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw2x-zv6ybj4nj</odePageId>
+          <odeBlockId>block-1780067727697-dkxf9evm1</odeBlockId>
+          <odeIdeviceId>idevice-1780067727693-axhgn2esl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos/as a la SdA “Aprendemos juntos a través de los sentidos”. Durante estas sesiones vamos a trabajar los sentidos, las emociones, la comunicación y el trabajo en equipo mediante actividades manipulativas, visuales y digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780067727693-axhgn2esl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos/as a la SdA “Aprendemos juntos a través de los sentidos”. Durante estas sesiones vamos a trabajar los sentidos, las emociones, la comunicación y el trabajo en equipo mediante actividades manipulativas, visuales y digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw30-ox5i947sh</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw30-ox5i947sh</odePageId>
+      <odeBlockId>block-1780068526924-kb5m4u93x</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw30-ox5i947sh</odePageId>
+          <odeBlockId>block-1780068526924-kb5m4u93x</odeBlockId>
+          <odeIdeviceId>idevice-1780068526923-gkb9mh7tm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos/as a la SdA “Aprendemos juntos a través de los sentidos”. Durante estas sesiones vamos a trabajar los sentidos, las emociones, la comunicación y el trabajo en equipo mediante actividades manipulativas, visuales y digitales.<img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780068526923-gkb9mh7tm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos/as a la SdA “Aprendemos juntos a través de los sentidos”. Durante estas sesiones vamos a trabajar los sentidos, las emociones, la comunicación y el trabajo en equipo mediante actividades manipulativas, visuales y digitales.<img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw31-xq7botdlq</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw31-xq7botdlq</odePageId>
+      <odeBlockId>block-1780068749553-mc4vq3lhm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw31-xq7botdlq</odePageId>
+          <odeBlockId>block-1780068749553-mc4vq3lhm</odeBlockId>
+          <odeIdeviceId>idevice-1780068749550-ggsgkbnhc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🌈 Aprendemos juntos a través de los sentidos<br />¡Bienvenidos y bienvenidas a esta nueva aventura de aprendizaje!</p>
+<p>Durante las próximas semanas vamos a descubrir cómo percibimos el mundo que nos rodea a través de nuestros sentidos. Además, aprenderemos a identificar y expresar nuestras emociones, a comunicarnos mejor con los demás y a trabajar en equipo mediante actividades divertidas, juegos, materiales manipulativos y recursos digitales.</p>
+<p>A lo largo de este proyecto exploraremos los cinco sentidos: vista, oído, olfato, gusto y tacto. También aprenderemos a reconocer emociones como la alegría, la tristeza, el miedo, la sorpresa o el enfado, comprendiendo cómo nos sentimos y cómo se sienten las personas que nos rodean.</p>
+<p>Realizaremos actividades prácticas, cooperativas y visuales que nos ayudarán a aprender de una forma activa y participativa. Utilizaremos diferentes herramientas digitales, materiales sensoriales y recursos adaptados para que todos podamos aprender y disfrutar juntos.</p>
+<p>🎯 Nuestro reto final<br />Entre todos crearemos un "Rincón de los sentidos y las emociones", un espacio especial donde mostraremos todo lo que hemos aprendido mediante carteles, materiales manipulativos, recursos digitales y diferentes actividades elaboradas por nosotros mismos.</p>
+<p>¿Qué vamos a conseguir?<br />✅ Conocer los cinco sentidos.</p>
+<p>✅ Identificar y expresar emociones.</p>
+<p>✅ Mejorar nuestra comunicación.</p>
+<p>✅ Trabajar de forma cooperativa.</p>
+<p>✅ Utilizar herramientas digitales de manera segura y responsable.</p>
+<p>✅ Aprender respetando las diferencias y ayudándonos unos a otros.</p>
+<p>¡Comenzamos!<br />¿Estáis preparados para explorar, sentir, descubrir y aprender juntos?</p>
+<p>🚀 ¡Empezamos nuestra aventura a través de los sentidos!<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780068749550-ggsgkbnhc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🌈 Aprendemos juntos a través de los sentidos<br />¡Bienvenidos y bienvenidas a esta nueva aventura de aprendizaje!</p>\n<p>Durante las próximas semanas vamos a descubrir cómo percibimos el mundo que nos rodea a través de nuestros sentidos. Además, aprenderemos a identificar y expresar nuestras emociones, a comunicarnos mejor con los demás y a trabajar en equipo mediante actividades divertidas, juegos, materiales manipulativos y recursos digitales.</p>\n<p>A lo largo de este proyecto exploraremos los cinco sentidos: vista, oído, olfato, gusto y tacto. También aprenderemos a reconocer emociones como la alegría, la tristeza, el miedo, la sorpresa o el enfado, comprendiendo cómo nos sentimos y cómo se sienten las personas que nos rodean.</p>\n<p>Realizaremos actividades prácticas, cooperativas y visuales que nos ayudarán a aprender de una forma activa y participativa. Utilizaremos diferentes herramientas digitales, materiales sensoriales y recursos adaptados para que todos podamos aprender y disfrutar juntos.</p>\n<p>🎯 Nuestro reto final<br />Entre todos crearemos un \"Rincón de los sentidos y las emociones\", un espacio especial donde mostraremos todo lo que hemos aprendido mediante carteles, materiales manipulativos, recursos digitales y diferentes actividades elaboradas por nosotros mismos.</p>\n<p>¿Qué vamos a conseguir?<br />✅ Conocer los cinco sentidos.</p>\n<p>✅ Identificar y expresar emociones.</p>\n<p>✅ Mejorar nuestra comunicación.</p>\n<p>✅ Trabajar de forma cooperativa.</p>\n<p>✅ Utilizar herramientas digitales de manera segura y responsable.</p>\n<p>✅ Aprender respetando las diferencias y ayudándonos unos a otros.</p>\n<p>¡Comenzamos!<br />¿Estáis preparados para explorar, sentir, descubrir y aprender juntos?</p>\n<p>🚀 ¡Empezamos nuestra aventura a través de los sentidos!<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw33-bsyi4txr0</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw33-bsyi4txr0</odePageId>
+      <odeBlockId>block-1780068866069-dj2f4h138</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw33-bsyi4txr0</odePageId>
+          <odeBlockId>block-1780068866069-dj2f4h138</odeBlockId>
+          <odeIdeviceId>idevice-1780068866067-kl3pkkzia</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+<p>Antes de utilizar internet o cualquier herramienta digital, recordaremos estas normas básicas para proteger nuestros datos personales y navegar de forma segura.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780068866067-kl3pkkzia","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>\n<p>Antes de utilizar internet o cualquier herramienta digital, recordaremos estas normas básicas para proteger nuestros datos personales y navegar de forma segura.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw33-mhix5j4f0</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw33-mhix5j4f0</odePageId>
+      <odeBlockId>block-1780068915088-ggopmcn0e</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw33-mhix5j4f0</odePageId>
+          <odeBlockId>block-1780068915088-ggopmcn0e</odeBlockId>
+          <odeIdeviceId>idevice-1780068915086-es4kjjc87</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nuestro producto final será la creación de un “Rincón de los sentidos y las emociones”.</p>
+<p>El alumnado elaborará carteles visuales, tarjetas de emociones, materiales manipulativos y pequeños recursos digitales para crear un espacio de aula donde trabajar los sentidos, la comunicación y la educación emocional.</p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780068915086-es4kjjc87","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestro producto final será la creación de un “Rincón de los sentidos y las emociones”.</p>\n<p>El alumnado elaborará carteles visuales, tarjetas de emociones, materiales manipulativos y pequeños recursos digitales para crear un espacio de aula donde trabajar los sentidos, la comunicación y la educación emocional.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw34-sc4qggpbb</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw34-sc4qggpbb</odePageId>
+      <odeBlockId>block-1780068952858-sio84thqp</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw34-sc4qggpbb</odePageId>
+          <odeBlockId>block-1780068952858-sio84thqp</odeBlockId>
+          <odeIdeviceId>idevice-1780068952855-v61uc0zj6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el proyecto utilizaremos diferentes herramientas y materiales que nos ayudarán a aprender de forma divertida y participativa.</p>
+<p>En este Padlet encontrarás:</p>
+<p>🎥 Vídeos educativos.</p>
+<p>🎮 Juegos interactivos.</p>
+<p>🖼️ Materiales visuales.</p>
+<p>✋ Actividades manipulativas.</p>
+<p>💻 Herramientas digitales.</p>
+<p>🔒 Recursos sobre seguridad digital.</p>
+<p><a href="https://padlet.com/evoskymmm/aprendemos-juntos-a-traves-de-los-sentidos-skxv4mwl46eqvwxx">https://padlet.com/evoskymmm/aprendemos-juntos-a-traves-de-los-sentidos-skxv4mwl46eqvwxx </a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780068952855-v61uc0zj6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el proyecto utilizaremos diferentes herramientas y materiales que nos ayudarán a aprender de forma divertida y participativa.</p>\n<p>En este Padlet encontrarás:</p>\n<p>🎥 Vídeos educativos.</p>\n<p>🎮 Juegos interactivos.</p>\n<p>🖼️ Materiales visuales.</p>\n<p>✋ Actividades manipulativas.</p>\n<p>💻 Herramientas digitales.</p>\n<p>🔒 Recursos sobre seguridad digital.</p>\n<p><a href=\"https://padlet.com/evoskymmm/aprendemos-juntos-a-traves-de-los-sentidos-skxv4mwl46eqvwxx\">https://padlet.com/evoskymmm/aprendemos-juntos-a-traves-de-los-sentidos-skxv4mwl46eqvwxx </a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw34-mrtwgl7db</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Organización de las sesiones</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización de las sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización de las sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw34-mrtwgl7db</odePageId>
+      <odeBlockId>block-1780069054613-v76wvz8kr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw34-mrtwgl7db</odePageId>
+          <odeBlockId>block-1780069054613-v76wvz8kr</odeBlockId>
+          <odeIdeviceId>idevice-1780069054609-cz9zbl390</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📅 ¿Cómo vamos a trabajar?<br />La Situación de Aprendizaje se desarrollará durante seis sesiones organizadas de la siguiente manera:</p>
+<p>Sesión 1<br />Asamblea inicial y motivación.</p>
+<p>Sesión 2<br />Descubrimos los sentidos.</p>
+<p>Sesión 3<br />Identificamos emociones.</p>
+<p>Sesión 4<br />Nos expresamos y comunicamos.</p>
+<p>Sesión 5<br />Trabajamos en equipo.</p>
+<p>Sesión 6<br />Creamos nuestro producto final y reflexionamos sobre lo aprendido.</p>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780069054609-cz9zbl390","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📅 ¿Cómo vamos a trabajar?<br />La Situación de Aprendizaje se desarrollará durante seis sesiones organizadas de la siguiente manera:</p>\n<p>Sesión 1<br />Asamblea inicial y motivación.</p>\n<p>Sesión 2<br />Descubrimos los sentidos.</p>\n<p>Sesión 3<br />Identificamos emociones.</p>\n<p>Sesión 4<br />Nos expresamos y comunicamos.</p>\n<p>Sesión 5<br />Trabajamos en equipo.</p>\n<p>Sesión 6<br />Creamos nuestro producto final y reflexionamos sobre lo aprendido.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw35-c0kwm8qlm</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw35-c0kwm8qlm</odePageId>
+      <odeBlockId>block-1780069228692-5lvx5axra</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw35-c0kwm8qlm</odePageId>
+          <odeBlockId>block-1780069228692-5lvx5axra</odeBlockId>
+          <odeIdeviceId>idevice-1780069228691-xohgzj1ar</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Actividad 1. ¿Qué sabemos sobre los sentidos?<br />Conversaremos sobre los sentidos y compartiremos experiencias personales.</p>
+<p>Actividad 2. Exploramos los cinco sentidos<br />Realizaremos juegos sensoriales utilizando diferentes materiales.</p>
+<p>Actividad 3. Identificamos emociones<br />Reconoceremos emociones mediante imágenes, pictogramas y dinámicas cooperativas.</p>
+<p>Actividad 4. Nos expresamos<br />Describiremos objetos, emociones y experiencias utilizando apoyos visuales.</p>
+<p>Actividad 5. Trabajamos juntos<br />Participaremos en juegos cooperativos y actividades grupales.</p>
+<p>Actividad 6. Creamos nuestro rincón<br />Elaboraremos materiales para el producto final.</p>
+<p>Actividad 7. Reflexionamos<br />Valoraremos todo lo aprendido durante el proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780069228691-xohgzj1ar","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Actividad 1. ¿Qué sabemos sobre los sentidos?<br />Conversaremos sobre los sentidos y compartiremos experiencias personales.</p>\n<p>Actividad 2. Exploramos los cinco sentidos<br />Realizaremos juegos sensoriales utilizando diferentes materiales.</p>\n<p>Actividad 3. Identificamos emociones<br />Reconoceremos emociones mediante imágenes, pictogramas y dinámicas cooperativas.</p>\n<p>Actividad 4. Nos expresamos<br />Describiremos objetos, emociones y experiencias utilizando apoyos visuales.</p>\n<p>Actividad 5. Trabajamos juntos<br />Participaremos en juegos cooperativos y actividades grupales.</p>\n<p>Actividad 6. Creamos nuestro rincón<br />Elaboraremos materiales para el producto final.</p>\n<p>Actividad 7. Reflexionamos<br />Valoraremos todo lo aprendido durante el proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw35-fqqa1w2bf</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw35-fqqa1w2bf</odePageId>
+      <odeBlockId>block-1780069255601-cirga5cr3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw35-fqqa1w2bf</odePageId>
+          <odeBlockId>block-1780069255601-cirga5cr3</odeBlockId>
+          <odeIdeviceId>idevice-1780069255600-a6rkcrxfk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📋 ¿Cómo vamos a ser evaluados?<br />La evaluación será continua y tendrá en cuenta la participación, el esfuerzo, la comunicación, la autonomía y la colaboración.</p>
+<p>Utilizaremos los siguientes instrumentos:</p>
+<p>Rúbrica de observación<br />La maestra observará la participación, la expresión emocional, la comunicación y el trabajo cooperativo.</p>
+<p>Uno de los instrumentos principales que utilizaré será una rúbrica de observación directa durante las actividades manipulativas, dinámicas cooperativas y tareas de expresión oral.</p>
+<p>Este instrumento será utilizado por la docente (heteroevaluación) durante el desarrollo de las actividades relacionadas con los sentidos, las emociones, la comunicación y las dinámicas grupales, especialmente en las sesiones centrales de la Situación de Aprendizaje.</p>
+<p>La observación directa permitirá recoger información continua sobre la participación, la interacción social, la comunicación, la comprensión de las actividades y el nivel de autonomía del alumnado durante las diferentes tareas.</p>
+<p>La rúbrica permitirá evaluar aspectos como:<br />  • Participación en las actividades.<br />  • Expresión de emociones y experiencias.<br />  • Interacción y colaboración con los compañeros/as.<br />  • Uso adecuado de materiales y recursos digitales.<br />  • Comprensión de instrucciones sencillas.<br />  • Nivel de autonomía durante las tareas.</p>
+<p>Los datos obtenidos me permitirán detectar dificultades, necesidades de apoyo y progresos individuales del alumnado. Además, servirán para adaptar las actividades posteriores, modificar agrupamientos o reforzar determinados contenidos cuando sea necesario.</p>
+<p>Considero que este instrumento resulta especialmente útil dentro del aula de Pedagogía Terapéutica, ya que facilita una evaluación más individualizada y ajustada a las necesidades reales del alumnado.</p>
+<p>Diana de autoevaluación<br /></p>
+<p>Otro instrumento que utilizaré será una diana de autoevaluación adaptada visualmente para que el alumnado pueda reflexionar sobre su propio aprendizaje de manera sencilla, motivadora y accesible.</p>
+<p>La diana será utilizada al finalizar el proyecto y algunas actividades concretas como instrumento de autoevaluación del alumnado.</p>
+<p>A través de ella, cada alumno/a podrá reflexionar sobre su participación, esfuerzo, comprensión de las actividades y relación con sus compañeros/as, favoreciendo así la toma de conciencia sobre su propio aprendizaje.</p>
+<p>La emplearemos especialmente después de las dinámicas grupales y del producto final “Rincón de los sentidos y las emociones”.</p>
+<p>Con esta herramienta el alumnado valorará aspectos como:<br />  • Si ha participado activamente.<br />  • Si ha comprendido las actividades.<br />  • Si ha trabajado bien con sus compañeros/as.<br />  • Si ha sabido expresar emociones e ideas.<br />  • Si ha disfrutado aprendiendo.</p>
+<p>La diana estará adaptada mediante colores, pictogramas y ejemplos visuales para facilitar la comprensión del alumnado con dificultades de lenguaje, atención o comprensión.</p>
+<p>Los resultados me permitirán conocer cómo se siente el alumnado durante el proceso de aprendizaje, detectar actividades más motivadoras y valorar posibles cambios metodológicos para futuras propuestas.</p>
+<p>Además, considero que este tipo de instrumentos favorecen la autonomía, la reflexión y la participación activa del alumnado dentro de su propio proceso educativo.</p>
+<p>EJEMPLO DE DIANA DE AUTOEVALUACIÓN</p>
+<p>• He participado en las actividades.<br />• He trabajado bien con mis compañeros/as.<br />• He entendido las explicaciones.<br />• He expresado mis emociones e ideas.<br />• Me he sentido cómodo/a realizando las actividades.</p>
+<p>(El alumnado coloreará del centro hacia fuera según cómo considere su participación y aprendizaje).</p>
+<p>REGISTRO Y ANÁLISIS DE LOS RESULTADOS<br />La información recogida mediante ambos instrumentos se complementará con la observación diaria, pequeños registros anecdóticos y conversaciones individuales con el alumnado.</p>
+<p>Más allá de la calificación, considero que estos instrumentos permiten conocer mejor las necesidades reales del alumnado, adaptar la intervención educativa y favorecer una evaluación más inclusiva, continua y centrada en el progreso individual.</p>
+<p>Además, los resultados obtenidos también servirán para reflexionar sobre mi propia práctica docente y realizar posibles mejoras en futuras Situaciones de Aprendizaje.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780069255600-a6rkcrxfk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📋 ¿Cómo vamos a ser evaluados?<br />La evaluación será continua y tendrá en cuenta la participación, el esfuerzo, la comunicación, la autonomía y la colaboración.</p>\n<p>Utilizaremos los siguientes instrumentos:</p>\n<p>Rúbrica de observación<br />La maestra observará la participación, la expresión emocional, la comunicación y el trabajo cooperativo.</p>\n<p>Uno de los instrumentos principales que utilizaré será una rúbrica de observación directa durante las actividades manipulativas, dinámicas cooperativas y tareas de expresión oral.</p>\n<p>Este instrumento será utilizado por la docente (heteroevaluación) durante el desarrollo de las actividades relacionadas con los sentidos, las emociones, la comunicación y las dinámicas grupales, especialmente en las sesiones centrales de la Situación de Aprendizaje.</p>\n<p>La observación directa permitirá recoger información continua sobre la participación, la interacción social, la comunicación, la comprensión de las actividades y el nivel de autonomía del alumnado durante las diferentes tareas.</p>\n<p>La rúbrica permitirá evaluar aspectos como:<br />  • Participación en las actividades.<br />  • Expresión de emociones y experiencias.<br />  • Interacción y colaboración con los compañeros/as.<br />  • Uso adecuado de materiales y recursos digitales.<br />  • Comprensión de instrucciones sencillas.<br />  • Nivel de autonomía durante las tareas.</p>\n<p>Los datos obtenidos me permitirán detectar dificultades, necesidades de apoyo y progresos individuales del alumnado. Además, servirán para adaptar las actividades posteriores, modificar agrupamientos o reforzar determinados contenidos cuando sea necesario.</p>\n<p>Considero que este instrumento resulta especialmente útil dentro del aula de Pedagogía Terapéutica, ya que facilita una evaluación más individualizada y ajustada a las necesidades reales del alumnado.</p>\n<p>Diana de autoevaluación<br /></p>\n<p>Otro instrumento que utilizaré será una diana de autoevaluación adaptada visualmente para que el alumnado pueda reflexionar sobre su propio aprendizaje de manera sencilla, motivadora y accesible.</p>\n<p>La diana será utilizada al finalizar el proyecto y algunas actividades concretas como instrumento de autoevaluación del alumnado.</p>\n<p>A través de ella, cada alumno/a podrá reflexionar sobre su participación, esfuerzo, comprensión de las actividades y relación con sus compañeros/as, favoreciendo así la toma de conciencia sobre su propio aprendizaje.</p>\n<p>La emplearemos especialmente después de las dinámicas grupales y del producto final “Rincón de los sentidos y las emociones”.</p>\n<p>Con esta herramienta el alumnado valorará aspectos como:<br />  • Si ha participado activamente.<br />  • Si ha comprendido las actividades.<br />  • Si ha trabajado bien con sus compañeros/as.<br />  • Si ha sabido expresar emociones e ideas.<br />  • Si ha disfrutado aprendiendo.</p>\n<p>La diana estará adaptada mediante colores, pictogramas y ejemplos visuales para facilitar la comprensión del alumnado con dificultades de lenguaje, atención o comprensión.</p>\n<p>Los resultados me permitirán conocer cómo se siente el alumnado durante el proceso de aprendizaje, detectar actividades más motivadoras y valorar posibles cambios metodológicos para futuras propuestas.</p>\n<p>Además, considero que este tipo de instrumentos favorecen la autonomía, la reflexión y la participación activa del alumnado dentro de su propio proceso educativo.</p>\n<p>EJEMPLO DE DIANA DE AUTOEVALUACIÓN</p>\n<p>• He participado en las actividades.<br />• He trabajado bien con mis compañeros/as.<br />• He entendido las explicaciones.<br />• He expresado mis emociones e ideas.<br />• Me he sentido cómodo/a realizando las actividades.</p>\n<p>(El alumnado coloreará del centro hacia fuera según cómo considere su participación y aprendizaje).</p>\n<p>REGISTRO Y ANÁLISIS DE LOS RESULTADOS<br />La información recogida mediante ambos instrumentos se complementará con la observación diaria, pequeños registros anecdóticos y conversaciones individuales con el alumnado.</p>\n<p>Más allá de la calificación, considero que estos instrumentos permiten conocer mejor las necesidades reales del alumnado, adaptar la intervención educativa y favorecer una evaluación más inclusiva, continua y centrada en el progreso individual.</p>\n<p>Además, los resultados obtenidos también servirán para reflexionar sobre mi propia práctica docente y realizar posibles mejoras en futuras Situaciones de Aprendizaje.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw36-rua1i0out</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw36-rua1i0out</odePageId>
+      <odeBlockId>block-1780069325715-ykuv2na69</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw36-rua1i0out</odePageId>
+          <odeBlockId>block-1780069325715-ykuv2na69</odeBlockId>
+          <odeIdeviceId>idevice-1780069325714-fe1wryr3m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Información para el profesorado<br />Nivel educativo<br />3º de Educación Primaria.</p>
+<p>Destinatarios<br />Alumnado que recibe apoyo en el aula de Pedagogía Terapéutica.</p>
+<p>Temporalización<br />6 sesiones de 45 minutos.</p>
+<p>Metodología<br />Aprendizaje manipulativo.<br />Metodologías activas.<br />Trabajo cooperativo.<br />Apoyos visuales.<br />Recursos digitales.<br />Atención a la diversidad<br />Se utilizarán apoyos visuales, pictogramas, materiales manipulativos y adaptación del ritmo de trabajo para responder a las necesidades del alumnado.</p>
+<p>Relación entre tareas y criterios de evaluación</p>
+<p>https://docs.google.com/document/d/15KzWdC3uB-_nMs6FhuhVIIBW9lZqSDc2bz47eJkuzfs/edit?tab=t.0</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780069325714-fe1wryr3m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Información para el profesorado<br />Nivel educativo<br />3º de Educación Primaria.</p>\n<p>Destinatarios<br />Alumnado que recibe apoyo en el aula de Pedagogía Terapéutica.</p>\n<p>Temporalización<br />6 sesiones de 45 minutos.</p>\n<p>Metodología<br />Aprendizaje manipulativo.<br />Metodologías activas.<br />Trabajo cooperativo.<br />Apoyos visuales.<br />Recursos digitales.<br />Atención a la diversidad<br />Se utilizarán apoyos visuales, pictogramas, materiales manipulativos y adaptación del ritmo de trabajo para responder a las necesidades del alumnado.</p>\n<p>Relación entre tareas y criterios de evaluación</p>\n<p>https://docs.google.com/document/d/15KzWdC3uB-_nMs6FhuhVIIBW9lZqSDc2bz47eJkuzfs/edit?tab=t.0</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw37-6sd1d04q2</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw37-6sd1d04q2</odePageId>
+      <odeBlockId>block-1780069444149-vdnu715un</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw37-6sd1d04q2</odePageId>
+          <odeBlockId>block-1780069444149-vdnu715un</odeBlockId>
+          <odeIdeviceId>idevice-1780069444147-addwyy5d3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>👩‍🏫 Herramientas digitales para el aula<br />En este Symbaloo se recopilan diferentes herramientas digitales utilizadas en el aula de Pedagogía Terapéutica.</p>
+<p>Entre ellas encontramos:</p>
+<p>🎨 Canva</p>
+<p>🧩 Genially</p>
+<p>🎮 Wordwall</p>
+<p>📋 Google Forms</p>
+<p>🖼️ ARASAAC</p>
+<p>📚 Classroom</p>
+<p>📌 Pinterest</p>
+<p>📂 Google Drive</p>
+<p><br /></p>
+<p>Y otras herramientas útiles para la práctica docente.</p>
+<p>https://www.symbaloo.com/home/mix/13eOcXPJEb </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780069444147-addwyy5d3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>👩‍🏫 Herramientas digitales para el aula<br />En este Symbaloo se recopilan diferentes herramientas digitales utilizadas en el aula de Pedagogía Terapéutica.</p>\n<p>Entre ellas encontramos:</p>\n<p>🎨 Canva</p>\n<p>🧩 Genially</p>\n<p>🎮 Wordwall</p>\n<p>📋 Google Forms</p>\n<p>🖼️ ARASAAC</p>\n<p>📚 Classroom</p>\n<p>📌 Pinterest</p>\n<p>📂 Google Drive</p>\n<p><br /></p>\n<p>Y otras herramientas útiles para la práctica docente.</p>\n<p>https://www.symbaloo.com/home/mix/13eOcXPJEb </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpr4vw38-pglruf811</odePageId>
+  <odeParentPageId>page-mpr4vw2x-zv6ybj4nj</odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpr4vw38-pglruf811</odePageId>
+      <odeBlockId>block-1780069503917-lhgn7rb70</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpr4vw38-pglruf811</odePageId>
+          <odeBlockId>block-1780069503917-lhgn7rb70</odeBlockId>
+          <odeIdeviceId>idevice-1780069503915-zmwamehzq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría<br />Eva</p>
+<p>Título<br />Aprendemos juntos a través de los sentidos</p>
+<p>Descripción<br />Situación de Aprendizaje diseñada para alumnado de 3º de Educación Primaria que recibe apoyo en el aula de Pedagogía Terapéutica.</p>
+<p>Herramientas utilizadas<br />Canva<br />Genially<br />Wordwall<br />Plickers<br />Padlet<br />Symbaloo<br />Google Forms<br />ARASAAC<br />Pixabay<br />Licencia<br />Creative Commons Reconocimiento – No Comercial – Compartir Igual (CC BY-NC-SA)</p>
+<p>Gracias por visitar nuestro proyecto 🌈😊</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780069503915-zmwamehzq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría<br />Eva</p>\n<p>Título<br />Aprendemos juntos a través de los sentidos</p>\n<p>Descripción<br />Situación de Aprendizaje diseñada para alumnado de 3º de Educación Primaria que recibe apoyo en el aula de Pedagogía Terapéutica.</p>\n<p>Herramientas utilizadas<br />Canva<br />Genially<br />Wordwall<br />Plickers<br />Padlet<br />Symbaloo<br />Google Forms<br />ARASAAC<br />Pixabay<br />Licencia<br />Creative Commons Reconocimiento – No Comercial – Compartir Igual (CC BY-NC-SA)</p>\n<p>Gracias por visitar nuestro proyecto 🌈😊</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
